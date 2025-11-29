@@ -32,10 +32,11 @@
 <body>
     <h1>Activités</h1>
 
-    <p>Bienvenue dans la section des activités du cours de Sciences Numériques et Technologiques.</p>
+    <p>Bienvenue dans la section des activités sur Python du cours de Sciences Numériques et Technologiques.</p>
 
-    <p>Du contenu sera ajouté ici.</p>
+    <br><br>
 
-    <p><a href="index.html">⬅ Retour à l’accueil</a></p>
+    <a href="accueil.html">⬅ Retour</a>
+
 </body>
 </html>
